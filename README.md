@@ -1,2 +1,2 @@
-# Carrier-Pigeon
+# Carrier Pigeon
 A secure, FOSS messaging service.
