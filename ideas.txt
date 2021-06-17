@@ -1,9 +1,0 @@
-Open website/terminal
-List of open chats (and documentation)
-Make (new thread) or join a chat
-Generate a random name
-Establish RSA connection with someone
-Chat using AES, nothing stored on server
-Can rename, stored locally
-Leave to chat list
-Once last member leaves, close chat
