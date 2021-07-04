@@ -20,7 +20,7 @@ public class ListenClient {
 
 			while (!fromUser.nextLine().equals("")) {}
 			System.out.print("***Listener exitedb***\n");
-			System.exit(0); //test
+			System.exit(0);
 		}
 	}
 
