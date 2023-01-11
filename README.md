@@ -1,4 +1,4 @@
-# Carrier Pigeon
+# Carrier Pigeon 🐦
 
 A terminal-based messaging application using sockets built with **Java**.
 
